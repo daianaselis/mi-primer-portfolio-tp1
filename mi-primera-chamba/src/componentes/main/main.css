@@ -1,0 +1,13 @@
+.main{
+    background-color: #B3DEE2AA;
+    color: black;
+    font-size: 25px;
+    font-family: 'Wix Madefor Display', 'Courier New', Courier, monospace;
+    height: 700px;
+    padding: 35px;
+    text-align: justify;
+}
+.texto{
+    font-weight: 600;
+    
+}

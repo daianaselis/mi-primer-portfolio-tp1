@@ -1,0 +1,31 @@
+.footer{
+    background-color: #CFE8DD;
+    color: #45008D;
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        background-color: #333; 
+        color: white; 
+        padding: 10px; 
+        text-align: center; 
+        font-family: '8BIT WONDER', sans-serif;
+        left: 0;
+        bottom: 0;
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+        overflow: hidden;
+}
+
+ .enlaces a{
+    text-align: center;
+    font-size: 30px;
+    margin: 45px;
+    display: inline;
+    background-color: #333;
+    color: #a980d4;
+    justify-content: start;
+    overflow-y: auto;
+
+
+}
